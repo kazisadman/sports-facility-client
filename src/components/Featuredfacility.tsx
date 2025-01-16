@@ -45,9 +45,9 @@ const Featuredfacility = () => {
       </div>
       <div className="grid grid-cols-2 lg:grid-cols-4 gap-8 items-center">
         {facilities.map((item: TFacility, index) => (
-          <div key={index} className="card bg-base-100 shadow-xl">
-            <figure className="px-10 pt-10 h-64">
-              <img src={item.image} alt="boxing" className="w-[260px]" />
+          <div key={index} className="card bg-base-100 shadow-xl h-full">
+            <figure className="px-10 pt-10">
+              <img src={item.image} alt="boxing" className="w-full h-40" />
             </figure>
             <div className="card-body items-center text-center">
               <h2 className="card-title">{item.title}</h2>

@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "Alice Johnson",
+    "designation": "Fitness Enthusiast",
+    "avatar": "https://i.ibb.co.com/t2rJ00Y/model-4.jpg",
+    "testimonial": "The facilities here are top-notch! The trainers are knowledgeable, and the equipment is always clean and well-maintained. Highly recommend this place for anyone serious about their fitness journey.",
+    "rating": 5
+  },
+  {
+    "id": 2,
+    "name": "Michael Lee",
+    "designation": "Amateur Footballer",
+    "avatar": "https://i.ibb.co.com/XJKYHBD/model-3.jpg",
+    "testimonial": "I’ve been using the turf fields here for over a year, and they’re always in great condition. The staff is friendly, and the booking process is hassle-free.",
+    "rating": 4
+  },
+  {
+    "id": 3,
+    "name": "Joseph Davis",
+    "designation": "Yoga Practitioner",
+    "avatar": "https://i.ibb.co.com/6BTj0PH/model-2.jpg",
+    "testimonial": "The yoga studio is peaceful and well-lit, and the instructors are amazing. I feel so relaxed and rejuvenated after every session.",
+    "rating": 5
+  },
+  {
+    "id": 4,
+    "name": "John Smith",
+    "designation": "Parent of Young Athlete",
+    "avatar": "https://i.ibb.co.com/dmFDH49/model-1.jpg",
+    "testimonial": "My son has been attending soccer coaching sessions here, and his skills have improved tremendously. The coaches are professional and great with kids.",
+    "rating": 5
+  }
+]
